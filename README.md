@@ -2,7 +2,7 @@
 
 Authors: Seble Alemu (cnd3ru@virginia.edu), Janna Serrao	(jhs5gq@virginia.edu), Ethan Ogilvie (ebo4dq@virginia.edu)
 
-Project Topic: Using an artificial neural network to classify European artwork from the late 1900s into the categories of "drawing" or "photograph"
+Project Topic: Using an artificial neural network to classify European artwork from the late 1900s into the categories of "drawing" or "painting"
 <h2>Section 1: Software and Packages</h2>
 <b>Software:</b> Rivanna OnDemand or Vscode <br>
 <b>Platform:</b> Jupyter Notebook<br>
