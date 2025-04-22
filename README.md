@@ -70,9 +70,9 @@ Project Topic: Using an artificial neural network to classify European artwork f
   </tr>
 </table> 
 
-<h2>Section 2: Documentation Tree (WIP)</h2>
+<h2>Section 2: Documentation Tree</h2>
 
-View via <a href = "https://miro.com/app/board/uXjVLk8cn0k=/?share_link_id=967850119871">this link! </a>
+View via <a href = "[https://miro.com/app/board/uXjVLk8cn0k=/?share_link_id=967850119871](https://miro.com/welcomeonboard/VzJWRzJFdkVOQU13RUFuSVhjaENOM2M3RTJjRDdCbmlUT0RENElZb01aUmpGdlFEbDd0TVlPS3Q1MWVVMzArbERqYjRmQ3RrT2hVN0RHRkJ5a1A3RmtqL1FnY3FheTJJWng3eWVneURNRjd4VVJXclBKRFh3eXl2U3gxRlVrVUxQdGo1ZEV3bUdPQWRZUHQzSGl6V2NBPT0hdjE=?share_link_id=834957129010)">this link! </a>
 
 <h2>Section 3: Instructions to Reproduce Results</h2>
 
